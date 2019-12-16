@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The first version of a web application created with Ruby on Rails at the backend and JavaScript at the client side (https://github.com/kmacancela/stocks-api-frontend). Also utilized Alpha Vantage API (https://www.alphavantage.co/).
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+YouTube Demo: https://youtu.be/HAV5X6d7RXw
