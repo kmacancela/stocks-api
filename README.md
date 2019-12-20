@@ -4,4 +4,4 @@ First version of a game web application where users can start with a balance, de
 
 Front-end repo: https://github.com/kmacancela/stocks-api-frontend
 
-YouTube Demo: https://youtu.be/HAV5X6d7RXw
+YouTube Demo: https://youtu.be/-if-txPZPec
